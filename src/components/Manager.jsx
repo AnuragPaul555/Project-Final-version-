@@ -124,8 +124,8 @@ const Manager = () => {
       />
       {/* Same as */}
       <ToastContainer />
-      <div className="absolute top-0 z-[-2] h-screen w-screen bg-purple-50 bg-[radial-gradient(ellipse_80%_80%_at_50%_-20%,rgba(120,119,198,0.3),rgba(255,255,255,0))]"></div>
 
+      
       <div className="p-2 md:p-0 md:mycontainer">
         <h1 className="text-slate-800 text-4xl font-bold text-center mt-10">
           <span className="text-purple-400">&lt;</span> pass
